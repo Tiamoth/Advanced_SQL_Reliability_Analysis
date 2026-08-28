@@ -1,4 +1,4 @@
-# 🔧 Equipment Reliability Analysis (Advanced SQL Project)
+# Equipment Reliability Analysis (Advanced SQL Project)
 
 ## Project Overview
 This project demonstrates advanced data engineering and analysis using **SQL** to solve a real-world industrial problem. I designed and built a relational database (in SQLite) to simulate an equipment maintenance and sensor-logging system.
@@ -7,7 +7,7 @@ The goal was to move beyond simple data retrieval (`SELECT *`) and write complex
 
 ***
 
-## 🛠️ Technology Stack & Key SQL Concepts
+## Technology Stack & Key SQL Concepts
 
 * **Database:** SQLite (run locally in VS Code)
 * **Database Design:** Relational Schema (3 tables with Primary/Foreign Keys)
@@ -21,7 +21,7 @@ The goal was to move beyond simple data retrieval (`SELECT *`) and write complex
 
 ***
 
-## 🚀 Key Business Questions & Analysis
+## Key Business Questions & Analysis
 
 This project answers three critical engineering questions by querying the database.
 
